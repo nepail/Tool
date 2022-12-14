@@ -1,6 +1,6 @@
 package tool
 
-import "fmt"
+//import "fmt"
 
 const (
 	ConnectionString string = "127.0.0.1:XXX..."
