@@ -11,9 +11,11 @@ func Hello() string {
 }
 
 func ConnectDB() string {
-	fmt.Println("資料庫連接中...")
+	//fmt.Println("資料庫連接中...")
+	return "資料庫連接中..."
 }
 
 func CloseDB() string {
-	fmt.Println("資料庫關閉")
+	//fmt.Println("資料庫關閉")
+	return "資料庫關閉"
 }
